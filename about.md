@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My name is Lorem Ipsum.
+My name is Alejandro Machado.
