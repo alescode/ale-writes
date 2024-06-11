@@ -5,7 +5,11 @@ url: "https://ale.macha.do"
 twitter: alegw
 
 baseurl: ""
-permalink: /:categories/:title:output_ext
+permalink: /:title/
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
+collections:
+  my_posts:
+    output: true
