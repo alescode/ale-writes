@@ -7,7 +7,7 @@ topics:
   - education
 ---
 
-*Originally published at [Caracas Chronicles](https://www.caracaschronicles.com/2015/10/28/how-admissions-test-populism-is-killing-la-simon/) on October 28, 2015.*
+*Originally published at [Caracas Chronicles](https://www.caracaschronicles.com/2015/10/28/how-admissions-test-populism-is-killing-la-simon/), October 28, 2015.*
 
 To understand why people are so angry at the government’s drive to end the University Admissions test and replace it with a centralized system, you could do worse than to have a chat with my friend Ramón.
 

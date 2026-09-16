@@ -7,7 +7,7 @@ topics:
   - money
 ---
 
-*Originally published at [Caracas Chronicles](https://www.caracaschronicles.com/2018/10/22/the-crypto-talk-why-the-world-needs-digital-cash/) on October 22, 2018.*
+*Originally published at [Caracas Chronicles](https://www.caracaschronicles.com/2018/10/22/the-crypto-talk-why-the-world-needs-digital-cash/), October 22, 2018.*
 
 In his [latest piece for El País](https://elpais.com/elpais/2018/10/06/opinion/1538838719_107697.html), Moisés Naím talks about the disappearance of physical cash and how cryptocurrencies are challenging our notions of what money is. These are two complex issues, and I’m glad he brought them to his audience. 
 
