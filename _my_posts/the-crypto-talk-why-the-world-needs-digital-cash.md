@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Crypto Talk: Why the World Needs Digital Cash
+title: "The Crypto Talk: Why the World Needs Digital Cash"
 date: 2018-10-22
 description: Digital cash can preserve privacy, reduce single points of failure, and shift power from authoritarian states to individuals.
 topics:
