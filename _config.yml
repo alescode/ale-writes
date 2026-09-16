@@ -1,6 +1,6 @@
 title: Alejandro Machado
 email: alejandro@macha.do
-description: Alejandro Machado
+description: Essays on education, technology, money, and building products in Latin America.
 url: "https://ale.macha.do"
 twitter: alegw
 
@@ -10,6 +10,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-sitemap
 collections:
   my_posts:
     output: true

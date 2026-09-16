@@ -2,8 +2,7 @@
 layout: post
 title:	El Dorado
 date:	2024-06-11
-description: Testing
-ogimage: opengraphimage.jpeg
+description: Simplifying El Dorado’s interface and improving its scam detection systems.
 
 ---
 

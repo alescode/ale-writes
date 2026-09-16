@@ -2,8 +2,7 @@
 layout: post
 title:	Bitrefill
 date:	2024-01-01
-description: Testing
-ogimage: opengraphimage.jpeg
+description: Products I built at Bitrefill between 2021 and 2023.
 
 ---
 

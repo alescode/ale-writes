@@ -1,3 +1,5 @@
 <footer>
-  <p class="muted small">Last updated September 2025</p>
+  {% if page.last_modified_at %}
+    <p class="muted small">Last updated {{ page.last_modified_at | date: "%B %Y" }}</p>
+  {% endif %}
 </footer>
